@@ -13,7 +13,9 @@ namespace ConsoleApp1
             Console.WriteLine("Device name: " + Environment.MachineName);
             Console.WriteLine("64 bit system: " + Environment.Is64BitOperatingSystem);
             Console.WriteLine("User name: " + Environment.UserName);
+            Console.WriteLine("Hello World");
             Console.ReadLine();
+
         }
     }
 }
